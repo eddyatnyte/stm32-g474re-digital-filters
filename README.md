@@ -27,7 +27,7 @@ High-order FIR filter implementation using Q1.15 fixed-point arithmetic. Include
 - Oscilloscope (e.g. PicoScope) for signal observation
 - MATLAB for filter design and simulation
 
-## Context
+## Educational Context
 
 These lab projects were developed as part of the *Embedded Signal Processing Systems* course (Prof. Dr. C. Jakob) at Hochschule Darmstadt (h_da), Germany. They form part of the International Master's in Electrical Engineering program.
 

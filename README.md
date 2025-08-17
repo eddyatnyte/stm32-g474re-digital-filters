@@ -3,6 +3,9 @@
 This repository contains three STM32-based lab projects developed during my Master's program in Embedded Systems. Each project focuses on the real-time implementation of different digital filter types on the NUCLEO-G474RE development board using STM32CubeIDE.
 
 ## Project Structure
+Each project directory contains the following subfolders:
+- **`Simulation/`**: MATLAB scripts (`.m` files) and plots used for offline filter design and analysis.
+- **`Measurements/`**: Oscilloscope captures (e.g. from DAC output) that show real-time filter behavior.
 
 ### 01_EMA-Filter
 Implementation of low-pass and high-pass Exponential Moving Average (EMA) filters using floating-point arithmetic. Both filtered and unfiltered signals are output via DAC for oscilloscope analysis.

@@ -27,7 +27,7 @@ High-order FIR filter implementation using Q1.15 fixed-point arithmetic. Include
 
 - STM32CubeIDE
 - NUCLEO-G474RE development board (STM32G474RE MCU, ARM Cortex-M4)
-- Oscilloscope (e.g. PicoScope) for signal observation
+- Oscilloscope (Rigol DS1102Z-E) for signal observation
 - MATLAB for filter design and simulation
 
 ## Educational Context
